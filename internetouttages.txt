@@ -1,0 +1,34 @@
+
+script started at 12-29-2017 00:19:18
+Internet is DOWN at 12-29-2017 00:19:21
+Internet is BACK UP at 12-29-2017 00:21:54
+
+
+script started at 12-29-2017 00:45:43
+Internet is DOWN at 12-29-2017 03:45:11
+Internet is BACK UP at 12-29-2017 03:45:11
+
+Internet is DOWN at 12-29-2017 03:49:58
+Internet is BACK UP at 12-29-2017 03:49:58
+
+Internet is DOWN at 12-29-2017 04:23:30
+Internet is BACK UP at 12-29-2017 04:23:30
+
+Internet is DOWN at 12-29-2017 04:29:06
+Internet is BACK UP at 12-29-2017 04:29:06
+
+Internet is DOWN at 12-29-2017 04:38:34
+Internet is BACK UP at 12-29-2017 04:38:34
+
+Internet is DOWN at 12-29-2017 04:40:09
+Internet is BACK UP at 12-29-2017 04:40:10
+
+Internet is DOWN at 12-29-2017 04:49:06
+Internet is BACK UP at 12-29-2017 04:49:06
+
+Internet is DOWN at 12-29-2017 04:53:25
+Internet is BACK UP at 12-29-2017 04:53:25
+
+Internet is DOWN at 12-29-2017 04:57:53
+Internet is BACK UP at 12-29-2017 04:57:53
+
